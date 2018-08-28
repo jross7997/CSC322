@@ -1,7 +1,7 @@
 # CSC322
 The two projects from CSC 322: Systems Programming
 
-#The Calculator Lab:
+# The Calculator Lab:
 A basic calculator that adds, subtracts, multiplies, and divides floating point numbers. Also performs the Collatz conjecture on integers
 
 This is a basic calculator, it can add, subtract, multiply, and divide floating point numbers. It also shows the Collatz conjecture positive integers.
