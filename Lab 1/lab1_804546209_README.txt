@@ -1,0 +1,22 @@
+READ ME
+Author: Justin Ross
+Student ID: 804546209
+Lab 1
+
+This is a basic calculator, it can add, subtract, multiply, and divide floating point numbers. It also shows the Collatz conjecture
+positive integers. 
+
+Commands:
+Addition:
+	sum float float
+Subtraction:
+	sub float float
+Multiplication:
+	mul float float
+Division:
+	div float float
+Collatz Conjecture:
+	col int
+
+I did not know to do the extra work.
+In my tests, I did not find any issues. 
