@@ -6,17 +6,17 @@ A basic calculator that adds, subtracts, multiplies, and divides floating point 
 
 This is a basic calculator, it can add, subtract, multiply, and divide floating point numbers. It also shows the Collatz conjecture positive integers.
 
-Commands:
-Addition:
-sum float float
-Subtraction:
-sub float float
-Multiplication:
-mul float float
-Division:
-div float float
-Collatz Conjecture:
-col int
+Commands:\
+Addition:\
+	sum float float\
+Subtraction:\
+	sub float float\
+Multiplication:\
+	mul float float\
+Division:\
+	div float float\
+Collatz Conjecture:\
+	col int 
 
 The collatz function does not display the sequence Recieved a 18/20
 
